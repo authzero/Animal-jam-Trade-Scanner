@@ -1,0 +1,6 @@
+If Console logs "Socket Closed!" more than 4 times in a row,
+open the .env file and replace the BOT_USERNAME and BOT_PASSWORD with another account's username and password.
+
+USAGE:
+
+node . list_here.txt
